@@ -11,3 +11,6 @@ from techlead:
   8. see that your code ships in the end
   9. be effective and productive- instead of wasting time watching crap, read the codebase and study new things
   10. stay humble- dont end up like techlead
+
+Rarely write error messages, instead figure out what to do and present users with solution messages (depends on the type of system of course.)
+
