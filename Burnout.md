@@ -14,3 +14,10 @@ This gives you something to look forward to and will force you to leave your com
 
 4. Unclear communication
 - Fix:  Overcommunicate to avoid surprises
+
+# How to avoid Burnout
+From the primeagen
+
+1. Don't place your worth in your work. Have other things in life that give you a purpose
+2. Give grace. You dont realise how much weight people have on their shoulders
+3. Investigate if you are just bored. Maybe you are not being challanged enough.
