@@ -12,4 +12,9 @@
   9. be effective and productive- instead of wasting time watching crap, read the codebase and study new things
   10. stay humble- dont end up like techlead
 
+
+## Extra Tips
+  - Plan your approach before you write a single line of code. Kind of how you do programming challanges(Kattis, Leetcode)
+Extend this even to when you are architecting a huge code base. Figure out all the requirements and interconnectivity between the routines you are about to write
+
 Rarely write error messages, instead figure out what to do and present users with solution messages (depends on the type of system of course.)
