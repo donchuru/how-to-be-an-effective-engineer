@@ -16,5 +16,6 @@
 ## Extra Tips
   - Plan your approach before you write a single line of code. Kinda like how you do programming challanges(Kattis, Leetcode)
 Extend this even to when you are architecting a huge code base. Figure out all the requirements and interconnectivity between the routines you are about to write
+  - When debugging, arguably the most important trait you can posess is calmness (and patience). Being frantic will not only confuse you more but also slow down the rate at which you solve the problem, or even worse cause you to give up.
 
 Rarely write error messages, instead figure out what to do and present users with solution messages (depends on the type of system of course.)
