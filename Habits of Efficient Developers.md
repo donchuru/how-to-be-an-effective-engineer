@@ -28,6 +28,6 @@ Have a command line interface inside your application. Best explained using a de
   c. Pair program- they are continuous code reviews
  
  
-Stop 
+Stop \n
 Reflect on how you work
 Never stop working
