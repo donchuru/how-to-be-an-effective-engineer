@@ -20,12 +20,12 @@ Use bash
 Avoid your UI more than anything
   d. Repeatable development environment - Use Docker "docker-compose up"
 
-4. Fast Feedback
-  a. TDD(Test Driven Development)
-Test -> Code -> Refactor -> Test ...
-  b. REPL- Read Eval Print Loop
-Have a command line interface inside your application. Best explained using a demo like in the video
-  c. Pair program- they are continuous code reviews
+4. Fast Feedback\
+  a. TDD(Test Driven Development)\
+Test -> Code -> Refactor -> Test ...\
+  b. REPL- Read Eval Print Loop\
+Have a command line interface inside your application. Best explained using a demo like in the video\
+  c. Pair program- they are continuous code reviews\
  
 - Stop
 - Reflect on how you work
