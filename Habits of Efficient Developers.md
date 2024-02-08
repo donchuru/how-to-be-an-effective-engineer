@@ -25,7 +25,7 @@ Avoid your UI more than anything
 Test -> Code -> Refactor -> Test ...\
   b. REPL- Read Eval Print Loop\
 Have a command line interface inside your application. Best explained using a demo like in the video\
-  c. Pair program- they are continuous code reviews\
+  c. Pair program- they are continuous code reviews
  
 - Stop
 - Reflect on how you work
