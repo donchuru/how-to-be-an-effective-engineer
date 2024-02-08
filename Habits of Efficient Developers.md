@@ -27,7 +27,9 @@ Test -> Code -> Refactor -> Test ...
 Have a command line interface inside your application. Best explained using a demo like in the video
   c. Pair program- they are continuous code reviews
  
- 
-Stop \n
-Reflect on how you work
-Never stop working
+- Stop
+- Reflect on how you work
+- Never stop working
+
+- Come up with coding standards that help you understand your own code (e.g. prepending "p" to all pointer variables).
+- Check out popular style guides (like Google C++ Style guide) and try to align your personal standards with them.
