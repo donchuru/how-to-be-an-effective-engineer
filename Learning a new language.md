@@ -5,5 +5,7 @@ It helps to have a stock project or two that let you exercise I/O, data structur
 
 ## Steps
 1. Build whatever you actually wanted to build
-2. Read the docs or **ONE** textbook (find the best one) to fill in knowledge gaps
+2. Read the docs and **ONE** textbook (find the best one) to fill in knowledge gaps
 3. Iterate
+
+Analyze the language and think deeply about the design decisions that went into making the language. Find similarities and differences between languages you know and the new language
