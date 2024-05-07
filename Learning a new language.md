@@ -6,4 +6,4 @@ It helps to have a stock project or two that let you exercise I/O, data structur
 ## Steps
 1. Build whatever you actually wanted to build
 2. Read the docs or **ONE** textbook (find the best one) to fill in knowledge gaps
-3. I terate
+3. Iterate
