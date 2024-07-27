@@ -5,6 +5,7 @@ It helps to have a stock project or two that let you exercise I/O, data structur
 
 ### Example Projects
 1.  Build an on disk bloom filter. Pretty straightforward, the most complicated part is finding suitable hash functions and figuring out how the local mmap library works and working out the arithmetic for bit flipping amongst a big array of bytes.
+2.  Pong. Everyone knows it, It's easy to run (just link a binary), and it's not that hard to code out.
 
 
 ## Steps
