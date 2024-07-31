@@ -28,6 +28,7 @@
 
 - Fundamentally all you have to do is explain yourself to the computer. Unlike humans, you can create your own language by defining new words and syntax then explain to the computer exactly what you mean by this word. This lets you speak in higher order sentances which is essential for solving problems of any significant complexity.
 
-- If you don't know exactly what a function, symbol or piece of syntax means, google it and write practice code if you have to. How can you explain yourself to the computer if you don't know what you yourself are saying?
+- If you don't know exactly what a function, symbol or piece of syntax means, google it and write practice code if you have to.\
+How can you explain yourself to the computer if you don't know what you yourself are saying?
 
-- Definition of DONE includes fully automated deployment, documentation, and hosting on a domain name url.```
+- Definition of DONE includes fully automated deployment, documentation, and hosting on a domain name url.
