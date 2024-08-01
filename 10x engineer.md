@@ -12,7 +12,6 @@
   9. be effective and productive- instead of wasting time watching crap, read the codebase and study new things
   10. stay humble- dont end up like techlead
 
-
 ## Extra Tips
   - Plan your approach before you write a single line of code. Kinda like how you do programming challanges(Kattis, Leetcode)
 Extend this even to when you are architecting a huge code base. Figure out all the requirements and interconnectivity between the routines you are about to write
@@ -21,3 +20,4 @@ Extend this even to when you are architecting a huge code base. Figure out all t
 *"The benefit of journaling is not just reentry, but that you begin to solidify the mental model into a concrete branching of possibilities that is tightly coupled to the specific problem. Your work becomes traversal and mutation of this tree. Several benefits accrue: you begin to see gaps in the tree, and can fill them in. You begin to have confidence in your mental model, recovering the time you used to spend going over the same nodes again and again in a haphazard way. In distributed systems in particular, the work is often detailed, manual, error prone and high latency - with a solid mental model you can get through a checklist of steps with minimum difficulty and high confidence that you didn't miss anything. This ability to take something abstract and make it more concrete on the fly is a critical skill."* \
 *~comment from HN*
   - Rarely write error messages, instead figure out what to do and present users with solution messages (depends on the type of system of course.)
+  - When building APIs, you should work from behind. Write the ideal API call first, and use it as if it existed. Then go and implement it
