@@ -16,3 +16,4 @@ Along the way, create opportunities for learning i.e. when you go to fix a probl
 To get better at reading code:
   - interact with it while reading it. Build the code, add prints, reoder it the way you would naturally do it, etc. You will understand so much more of the code if you interact with it.
   - read (as in the point above) a lot of codebases. See how different things are implemented. Read LOTS of code. As a beginner, quantity > quality. Write lots, read lots
+  - talk with experts of the codebases you are reading (maintainers, etc)
